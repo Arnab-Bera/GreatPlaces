@@ -1,4 +1,4 @@
-# great_places
+# Great Places
 
 A new Flutter project.
 
